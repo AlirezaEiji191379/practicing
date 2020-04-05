@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+/*.haml
+/*.class
+/*.xml
+/*.iml
