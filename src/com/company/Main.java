@@ -9,5 +9,6 @@ public class Main {
         Scanner input=new Scanner(System.in);
         String inputString=input.nextLine();
         System.out.println("your String and Line was:"+inputString);
+        System.out.println("Hello T_BAG");
     }
 }
